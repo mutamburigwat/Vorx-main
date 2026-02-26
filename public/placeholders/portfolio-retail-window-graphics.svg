@@ -1,0 +1,12 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#1E293B" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)" />
+  <rect x="18" y="18" width="764" height="414" rx="20" fill="none" stroke="#22D3EE" stroke-opacity="0.6" stroke-width="3" stroke-dasharray="12 10" />
+  <text x="400" y="220" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="34" text-anchor="middle" font-weight="700">IMAGE PLACEHOLDER</text>
+  <text x="400" y="268" fill="#94A3B8" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">Retail Window Graphics</text>
+</svg>

@@ -1,0 +1,5 @@
+{
+  "name": "VORX Prints",
+  "description": "Premium printing and graphic design services in Harare, Zimbabwe. Specialising in lithographic, digital, large format, and branding solutions.",
+  "requestFramePermissions": ["geolocation"]
+}
