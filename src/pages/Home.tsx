@@ -147,11 +147,14 @@ export default function Home() {
       </section>
 
       {/* Graphic Design Support */}
-      <section className="py-24 bg-primary text-white overflow-hidden relative neon-purple">
+      <section className="relative overflow-hidden py-24 text-white border-y border-white/5 bg-[linear-gradient(135deg,#0b0b10_0%,#14111c_45%,#09090b_100%)]">
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(139,92,246,0.18),transparent_32%),radial-gradient(circle_at_bottom_right,rgba(34,211,238,0.08),transparent_28%)]" />
+        <div className="absolute inset-x-0 top-0 h-px bg-gradient-to-r from-transparent via-white/12 to-transparent" />
+        <div className="absolute inset-x-0 bottom-0 h-px bg-gradient-to-r from-transparent via-white/8 to-transparent" />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <div className="inline-flex items-center space-x-2 bg-white/10 px-4 py-2 rounded-full mb-6">
+              <div className="inline-flex items-center space-x-2 bg-white/8 border border-white/10 px-4 py-2 rounded-full mb-6">
                 <Palette size={18} />
                 <span className="text-sm font-semibold uppercase tracking-wider">Design Services</span>
               </div>
@@ -161,14 +164,15 @@ export default function Home() {
               </p>
               <Link
                 to="/graphic-design"
-                className="inline-block bg-white text-primary px-8 py-4 rounded-full font-bold hover:bg-zinc-100 transition-all shadow-xl"
+                className="inline-block bg-white/10 border border-white/15 text-white px-8 py-4 rounded-full font-bold hover:bg-white/15 transition-all shadow-xl"
               >
                 Explore Design Services
               </Link>
             </div>
             <div className="hidden md:block">
               <div className="relative">
-                <div className="absolute -top-10 -left-10 w-64 h-64 bg-secondary-cyan/20 rounded-full blur-3xl" />
+                <div className="absolute -top-10 -left-10 w-64 h-64 bg-secondary-cyan/12 rounded-full blur-3xl" />
+                <div className="absolute -bottom-12 -right-8 w-56 h-56 bg-primary/12 rounded-full blur-3xl" />
                 <div className="aspect-square bg-white/5 backdrop-blur-sm border border-white/10 p-4 rounded-[2rem] overflow-hidden shadow-2xl">
                   <img 
                     src="/design.png" 
