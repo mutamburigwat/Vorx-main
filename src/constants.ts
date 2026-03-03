@@ -8,10 +8,10 @@ export const BUSINESS_INFO = {
   email: 'info@vorx-prints.co.zw',
   address: 'Shop 4, Farm & City Mall, 1 Wynne St, Harare',
   hours: {
-    monFri: '8am – 5pm',
-    sat: '8am – 1pm',
-    sun: 'Closed'
-  }
+    monFri: '8am - 5pm',
+    sat: '8am - 1pm',
+    sun: 'Closed',
+  },
 };
 
 export const SERVICES = [
@@ -23,5 +23,5 @@ export const SERVICES = [
   { id: 'corporate-gifts-promotional-items', name: 'Corporate Gifts & Promotional Items', slug: 'corporate-gifts-promotional-items' },
   { id: 'packaging', name: 'Packaging & Labels', slug: 'packaging-labels' },
   { id: 'graphic-design-services', name: 'Graphic Design Services', slug: 'graphic-design-services' },
-  { id: 'embroidery-screen-printing', name: 'Embroidery & Screen Printing', slug: 'embroidery-screen-printing' }
+  { id: 'embroidery-screen-printing', name: 'Embroidery & Screen Printing', slug: 'embroidery-screen-printing' },
 ];
