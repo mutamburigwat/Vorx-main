@@ -38,13 +38,13 @@ export default function ServicesHub() {
       ],
     },
     {
-      title: 'Large Format & Event Branding',
-      description: 'High-impact visuals designed for visibility, promotions, and outdoor marketing.',
+      title: 'Sublimation of Field Banners',
+      description: 'High-impact banner and event visuals designed for visibility, promotions, and outdoor marketing.',
       blocks: [
         {
-          title: 'Large Format Products',
+          title: 'Field Banner Products',
           items: [
-            'Field banners',
+            'Fabric Printing',
             'Gazebos',
             'Teardrop banners',
             'Telescopic banners',
@@ -55,7 +55,7 @@ export default function ServicesHub() {
           ],
         },
         {
-          title: 'Sublimation Fabric Printing for Events',
+          title: 'Event Fabric Branding',
           items: ['Event fabric branding', 'Sports & promotional displays', 'Custom branded textiles'],
         },
       ],
@@ -69,6 +69,7 @@ export default function ServicesHub() {
           items: [
             'Golf shirts',
             'Roundneck T-shirts',
+            'Branded formal shirts',
             'Work suits',
             'Khaki shirts',
             'Safari shirts',
@@ -83,8 +84,8 @@ export default function ServicesHub() {
       ],
     },
     {
-      title: 'Sublimation Fabric Printing',
-      description: 'Custom full-color fabric printing for apparel and sportswear.',
+      title: 'Sublimation of Clothing',
+      description: 'Custom full-color clothing sublimation for apparel, uniforms, and sportswear.',
       blocks: [
         {
           title: 'Products',
@@ -92,6 +93,8 @@ export default function ServicesHub() {
             'Sublimation golf T-shirts',
             'Roundneck T-shirts',
             'Zim T-shirts',
+            'Zambia print T-shirts',
+            'Custom African print T-shirts',
             'School sports kits (all sports)',
             'Tracksuits',
             'Bucket hats',
@@ -105,7 +108,7 @@ export default function ServicesHub() {
       blocks: [
         {
           title: 'Items',
-          items: ['Key rings', 'Mugs', 'Pens', 'Bottles & drinkware', 'Flasks', 'Medals'],
+          items: ['Key rings', 'Mugs', 'Pens', 'Bottles & drinkware', 'Flasks', 'Medals', 'Lanyards', 'Gift bags', 'Helmets'],
         },
       ],
     },
@@ -126,6 +129,12 @@ export default function ServicesHub() {
         {
           title: 'Design Support',
           items: [
+            'Brochures',
+            'Flyers',
+            'Magazines',
+            'Company profiles',
+            'Letterheads',
+            'Business cards',
             'Logo design',
             'Brand identity development',
             'Layout design',
@@ -133,6 +142,16 @@ export default function ServicesHub() {
             'Packaging design',
             'Signage mockups',
           ],
+        },
+      ],
+    },
+    {
+      title: 'Embroidery & Screen Printing',
+      description: 'Additional garment branding solutions for uniforms, promotional wear, and bulk apparel runs.',
+      blocks: [
+        {
+          title: 'Services',
+          items: ['Embroidery', 'Screen printing'],
         },
       ],
     },

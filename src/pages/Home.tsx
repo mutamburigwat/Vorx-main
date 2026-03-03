@@ -18,8 +18,8 @@ export default function Home() {
 
   const heroSubheadlines = [
     "Complete print services, branding, signage, apparel, packaging, and promotional solutions in Harare.",
-    "From lithographic and digital printing to large-format event branding and corporate wear.",
-    "Graphic design, sublimation fabric printing, and branded gifts delivered with speed and consistency."
+    "From lithographic and digital printing to sublimation of field banners and corporate wear.",
+    "Graphic design, sublimation of clothing, and branded gifts delivered with speed and consistency."
   ];
 
   const popularProducts = [

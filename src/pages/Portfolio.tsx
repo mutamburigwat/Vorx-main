@@ -98,7 +98,7 @@ export default function Portfolio() {
     },
     {
       title: "Telescopic Banner Series",
-      service: "Large Format & Event Branding",
+      service: "Sublimation of Field Banners",
       image: "/placeholders/portfolio-retail-window-graphics.svg",
       materials: "PVC Banner Media",
       finish: "Stand Assembly, Eyelets",
@@ -108,7 +108,7 @@ export default function Portfolio() {
     },
     {
       title: "Field Banner Campaign",
-      service: "Large Format & Event Branding",
+      service: "Sublimation of Field Banners",
       image: "/placeholders/portfolio-retail-window-graphics.svg",
       materials: "Outdoor Flex Banner",
       finish: "Hemming, Reinforced Eyelets",
@@ -218,7 +218,7 @@ export default function Portfolio() {
     },
     {
       title: "School Sports Kit Package",
-      service: "Sublimation Fabric Printing",
+      service: "Sublimation of Clothing",
       image: "/placeholders/portfolio-staff-uniforms.svg",
       materials: "Sublimation Polyester",
       finish: "Full-color Press",
@@ -228,7 +228,7 @@ export default function Portfolio() {
     },
     {
       title: "Club Tracksuit Collection",
-      service: "Sublimation Fabric Printing",
+      service: "Sublimation of Clothing",
       image: "/placeholders/portfolio-staff-uniforms.svg",
       materials: "Brushed Performance Fabric",
       finish: "Sublimation Panels",
@@ -238,7 +238,7 @@ export default function Portfolio() {
     },
     {
       title: "Bucket Hat Promo Series",
-      service: "Sublimation Fabric Printing",
+      service: "Sublimation of Clothing",
       image: "/placeholders/portfolio-staff-uniforms.svg",
       materials: "Lightweight Polyester Twill",
       finish: "All-over Sublimation",
@@ -248,7 +248,7 @@ export default function Portfolio() {
     },
     {
       title: "Expo Backdrop & Gazebo Kit",
-      service: "Large Format & Event Branding",
+      service: "Sublimation of Field Banners",
       image: "/placeholders/portfolio-retail-window-graphics.svg",
       materials: "Fabric Backdrop, Branded Gazebo Canopy",
       finish: "Hardware Setup & Packing",
@@ -258,7 +258,7 @@ export default function Portfolio() {
     },
     {
       title: "Teardrop Banner Activation Set",
-      service: "Large Format & Event Branding",
+      service: "Sublimation of Field Banners",
       image: "/placeholders/portfolio-retail-window-graphics.svg",
       materials: "Polyester Flag Fabric",
       finish: "Pole System Assembly",
@@ -268,7 +268,7 @@ export default function Portfolio() {
     },
     {
       title: "Branded Table Cloth Collection",
-      service: "Large Format & Event Branding",
+      service: "Sublimation of Field Banners",
       image: "/placeholders/portfolio-retail-window-graphics.svg",
       materials: "Dye-sub Fabric",
       finish: "Hemmed Edge",

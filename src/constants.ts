@@ -17,10 +17,11 @@ export const BUSINESS_INFO = {
 export const SERVICES = [
   { id: 'print-services', name: 'Print Services', slug: 'print-services' },
   { id: 'branding-signage', name: 'Branding & Signage', slug: 'branding-signage' },
-  { id: 'large-format-event-branding', name: 'Large Format & Event Branding', slug: 'large-format-event-branding' },
+  { id: 'large-format-event-branding', name: 'Sublimation of Field Banners', slug: 'large-format-event-branding' },
   { id: 'corporate-wear-apparel-branding', name: 'Corporate Wear & Apparel Branding', slug: 'corporate-wear-apparel-branding' },
-  { id: 'sublimation-fabric-printing', name: 'Sublimation Fabric Printing', slug: 'sublimation-fabric-printing' },
+  { id: 'sublimation-fabric-printing', name: 'Sublimation of Clothing', slug: 'sublimation-fabric-printing' },
   { id: 'corporate-gifts-promotional-items', name: 'Corporate Gifts & Promotional Items', slug: 'corporate-gifts-promotional-items' },
   { id: 'packaging', name: 'Packaging & Labels', slug: 'packaging-labels' },
-  { id: 'graphic-design-services', name: 'Graphic Design Services', slug: 'graphic-design-services' }
+  { id: 'graphic-design-services', name: 'Graphic Design Services', slug: 'graphic-design-services' },
+  { id: 'embroidery-screen-printing', name: 'Embroidery & Screen Printing', slug: 'embroidery-screen-printing' }
 ];
