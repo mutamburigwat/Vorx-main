@@ -9,7 +9,7 @@ export default function Portfolio() {
     {
       title: "Corporate Identity Pack",
       service: "Lithographic Printing",
-      image: "/placeholders/portfolio-corporate-identity.svg",
+      image: "https://images.unsplash.com/photo-1750534232339-017655f56081?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
       materials: "120gsm Bond, 350gsm Art Board",
       finish: "Matt Lamination, Spot UV",
       turnaround: "5-7 Days",
@@ -19,7 +19,7 @@ export default function Portfolio() {
     {
       title: "Retail Window Graphics",
       service: "Large Format Printing",
-      image: "/placeholders/portfolio-retail-window-graphics.svg",
+      image: "https://images.unsplash.com/photo-1503694978374-8a2fa686963a?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
       materials: "Contravision, High-tack Vinyl",
       finish: "UV Protection",
       turnaround: "3 Days",
@@ -29,7 +29,7 @@ export default function Portfolio() {
     {
       title: "Premium Product Labels",
       service: "Packaging & Labels",
-      image: "/placeholders/portfolio-product-labels.svg",
+      image: "https://images.unsplash.com/photo-1674316206411-52408f9a5b5d?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
       materials: "Metallic Foil Stock",
       finish: "Gloss Varnish, Die-cut",
       turnaround: "10 Days",
@@ -39,7 +39,7 @@ export default function Portfolio() {
     {
       title: "Executive Staff Uniforms",
       service: "Embroidery & Garment Branding",
-      image: "/placeholders/portfolio-staff-uniforms.svg",
+      image: "https://images.unsplash.com/photo-1483446227769-9137a8af8667?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000",
       materials: "100% Cotton Pique",
       finish: "High-density Embroidery",
       turnaround: "7 Days",

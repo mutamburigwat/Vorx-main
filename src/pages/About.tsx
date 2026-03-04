@@ -20,7 +20,7 @@ export default function About() {
             <div className="relative">
               <div className="aspect-square bg-dark-surface rounded-[3rem] overflow-hidden relative shadow-2xl border border-white/5">
                 <img 
-                   src="/placeholders/about-workshop.svg" 
+              src="https://images.unsplash.com/photo-1770017863955-56a1501a3c93?auto=format&fit=crop&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&ixlib=rb-4.1.0&q=60&w=3000"
                    alt="VORX Prints Workshop" 
                    className="w-full h-full object-cover opacity-60"
                    referrerPolicy="no-referrer"
